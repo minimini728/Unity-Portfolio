@@ -62,7 +62,7 @@
 - 개발 인원: 1인
 - 비고: 기존 보드게임을 모바일 게임으로 개발
 - 플레이스토어 링크: https://play.google.com/store/apps/details?id=com.SpotTalk&hl=en-US
-- - # 영상 및 기술서
+# 영상 및 기술서
 - 동영상 (유니티_포트폴리오(2/2)): https://youtu.be/tuhvPcL4C6Y
 - 기술서: https://docs.google.com/document/d/e/2PACX-1vSzKesodRGm2sy3uzCJwwqyGJUBmJOAyTmObo3Hso6p99nzV6mz87_JhGEBvoWDATqXV_STjUIAGMsW/pub
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%8A%A4%ED%8C%9F%ED%86%A1
