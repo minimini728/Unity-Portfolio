@@ -28,3 +28,39 @@
 # 영상 및 기술서
 - 동영상: https://youtu.be/tuhvPcL4C6Y
 - 기술서: https://docs.google.com/document/d/e/2PACX-1vRHtBnUTL2GFFUykzQpsJABBbjHxUGH5jQrh7MbKh4hlcwiJVu99r9D4WbTwHtpnY9atFz8_TZw2j6O/pub
+
+
+# 토끼의 행성
+# 게임 개요
+장애물을 피해 스테이지에 있는 모든 하트를 모으는 게임
+
+- 장르: 플랫폼 게임
+- 플랫폼: Android
+- 개발 엔진: Unity
+- 개발 기간: 1개월
+- 형상 관리: GitHub
+- 개발 인원: 3인
+- 비고: 졸업작품을 리뉴얼
+- 플레이스토어 링크: https://play.google.com/store/apps/details?id=com.h3.rabbitplanet&hl=en-US
+- # 영상 및 기술서
+- 동영상: https://youtu.be/tuhvPcL4C6Y
+- 기술서: https://docs.google.com/document/d/e/2PACX-1vSdWmELbnA6KfR32f7kPp9kWFXFxX1L-aZ8Sk3YdiBfGDbzp4B3vDyBuQNAfS7xoVQqArhBmKGVLMM4/pub
+
+
+# 스팟톡 (SpotTalk)
+# 게임 개요
+9x9 크기의 격자로 이루어진 게임 보드에서 두 명의 플레이어가 번갈아가며 돌을 놓는 전략 보드게임
+
+- 장르: 2인용 전략 보드게임
+- 플랫폼: Android
+- 개발 엔진: Unity
+- 개발 기간: 1개월
+- 형상 관리: GitHub
+- 개발 인원: 1인
+- 비고: 기존 보드게임을 모바일 게임으로 개발
+- 플레이스토어 링크: https://play.google.com/store/apps/details?id=com.SpotTalk&hl=en-US
+- - # 영상 및 기술서
+- 동영상: https://youtu.be/tuhvPcL4C6Y
+- 기술서: https://docs.google.com/document/d/e/2PACX-1vSzKesodRGm2sy3uzCJwwqyGJUBmJOAyTmObo3Hso6p99nzV6mz87_JhGEBvoWDATqXV_STjUIAGMsW/pub
+
+
