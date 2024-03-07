@@ -15,7 +15,8 @@
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%BF%88%EC%9D%98%20%EC%99%95%EA%B5%AD%3A%20%EC%98%81%EC%9B%90%ED%95%9C%20%EB%B3%B4%EA%B8%88%EC%9E%90%EB%A6%AC
 
 
-#
+
+
 # Project H3
 # 프로젝트 개요
 전투장에서 아이템을 얻어 전초기지를 짓는 게임
@@ -33,7 +34,8 @@
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/ProjectH3
 
 
-#
+
+
 # 토끼의 행성
 # 게임 개요
 장애물을 피해 스테이지에 있는 모든 하트를 모으는 게임
@@ -52,7 +54,8 @@
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%86%A0%EB%81%BC%EC%9D%98%20%ED%96%89%EC%84%B1
 
 
-#
+
+
 # 스팟톡 (SpotTalk)
 # 게임 개요
 9x9 크기의 격자로 이루어진 게임 보드에서 두 명의 플레이어가 번갈아가며 돌을 놓는 전략 보드게임
