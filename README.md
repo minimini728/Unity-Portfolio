@@ -13,6 +13,7 @@
 - 동영상: https://youtu.be/eda_Syzq-AM
 - 기술서: https://docs.google.com/document/d/e/2PACX-1vTOqzZaqdMv65kBz-3Qt-oIH62qxBMGPxzVsq7Q7N9B9bGYg5_YQdGKThCnKVIeDt4vrY9bAHoKlTNe/pub
 
+
 # Project H3
 # 프로젝트 개요
 전투장에서 아이템을 얻어 전초기지를 짓는 게임
