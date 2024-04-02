@@ -10,7 +10,7 @@
 - 개발 인원: 프로그래머 5인
 - 플레이스토어 링크: https://play.google.com/store/apps/details?id=com.notsame.kingdomofdreams&hl=en-US&ah=3k6rJ3KjVtZtCSUiGxuPUtz-rO8
 # 영상 및 기술서
-- 동영상 (유니티_포트폴리오(1/2)): https://youtu.be/eda_Syzq-AM
+- 동영상: https://youtu.be/eda_Syzq-AM
 - 기술서: https://docs.google.com/document/d/1sxxNM84lvwqQJZoGFOvItIjVOPkB3150nunMg6wlCVQ/edit?usp=sharing
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%BF%88%EC%9D%98%20%EC%99%95%EA%B5%AD%3A%20%EC%98%81%EC%9B%90%ED%95%9C%20%EB%B3%B4%EA%B8%88%EC%9E%90%EB%A6%AC  
 ---
@@ -27,7 +27,7 @@
 - 개발 인원: 3인
 - 비고: 렌타디 IP를 사용한 공모전 제출 작품
 # 영상 및 기술서
-- 동영상 (유니티_포트폴리오(2/2)): https://youtu.be/tuhvPcL4C6Y
+- 동영상: https://youtu.be/eDFAly4gO0A
 - 기술서: https://docs.google.com/document/d/1OjHQXa_XSHLiZLS4Q3COREcCGKF3b1qf5e_Yko95E_k/edit?usp=sharing
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/ProjectH3
 ---
@@ -45,7 +45,7 @@
 - 비고: 졸업작품을 리뉴얼
 - 플레이스토어 링크: https://play.google.com/store/apps/details?id=com.h3.rabbitplanet&hl=en-US
 - # 영상 및 기술서
-- 동영상 (유니티_포트폴리오(2/2)): https://youtu.be/tuhvPcL4C6Y
+- 동영상: https://youtu.be/1vfcWqrBBEw
 - 기술서: https://docs.google.com/document/d/1jqqw0F6icDvKaOK0zEzSOCdIgNEFaqIHIRxWEoozpp0/edit?usp=sharing
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%86%A0%EB%81%BC%EC%9D%98%20%ED%96%89%EC%84%B1
 ---
@@ -63,7 +63,7 @@
 - 비고: 기존 보드게임을 모바일 게임으로 개발
 - 플레이스토어 링크: https://play.google.com/store/apps/details?id=com.SpotTalk&hl=en-US
 # 영상 및 기술서
-- 동영상 (유니티_포트폴리오(2/2)): https://youtu.be/tuhvPcL4C6Y
+- 동영상: https://youtu.be/Jse9fQfW9OY
 - 기술서: https://docs.google.com/document/d/1XU4z9xiU5uUyMt_-OQl4l6IBy0LEYsXchuTX_FnxK_k/edit?usp=sharing
 - History: https://hyeonmin-minimini.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%8A%A4%ED%8C%9F%ED%86%A1
 
